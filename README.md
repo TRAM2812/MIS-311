@@ -38,6 +38,7 @@ There were 3 duplicate rows in the dataset. These were removed by using Excel’
 **Descriptive Statistics**
 
 ![image](https://github.com/user-attachments/assets/fde76eb0-9269-4ee1-8ba0-1af51720d439)
+
 Figure 1: Average Score for Each Subject by Parental Level of Education
 
 - Higher parental education levels are associated with higher student performance: The chart clearly shows that students whose parents have a master’s degree achieve the highest average scores across all three subjects: Math (68), Reading (75), and Writing (74). On the other hand, students whose parents only completed some high school have the lowest scores: Math (59), Reading (62), and Writing (60). This suggests a strong correlation between parents’ education levels and students’ academic success.
