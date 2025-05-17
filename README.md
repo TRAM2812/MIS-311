@@ -53,7 +53,7 @@ Figure 1: Average Score for Each Subject by Parental Level of Education
 Figure 2: Average Score in Writing, Reading, and Math by Gender
 
 - Gender 0 has higher average scores than Gender 1 in all three subjects.
-According to the chart, students in Group 0 outperform those in Gender 1 across all subjects. Specifically, Gender 0 scores 71.90 in writing, 72.45 in reading, and 63.57 in math. In comparison, Group 1 scores  60.89 in writing, 62.85 in reading, and 64.86 in math. The performance gap is especially noticeable in writing and reading, where Gender 0 leads by around 10-11 points. This suggests a significant difference in academic performance between the two groups.
+According to the chart, students in Gender 0 outperform those in Gender 1 across all subjects. Specifically, Gender 0 scores 71.90 in writing, 72.45 in reading, and 63.57 in math. In comparison, Gender 1 scores  60.89 in writing, 62.85 in reading, and 64.86 in math. The performance gap is especially noticeable in writing and reading, where Gender 0 leads by around 10-11 points. This suggests a significant difference in academic performance between the two groups.
 
 - Each group of gender shows strength in a different subject, Gender 0 excels in writing, while Gender 1 performs best in math.
 Gender 0 achieves its highest average score in reading (72.45), indicating strong reading skills. On the other hand, Gender 1 highest score is in math (62.85), which surpasses its reading (60.89) and writing (64.86) scores. This reveals that the two groups may have different academic strengths: Gender 0 tends to perform better in expressive subjects like reading, whereas Gender 1 shows stronger performance in logical and analytical areas like math.
