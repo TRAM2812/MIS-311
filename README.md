@@ -2,7 +2,7 @@
 
 **Part 1: Data Analysis and Insight**
 
-**Context and Objective**
+**1. Data Overview**
 
 This project investigates the relationship between students' academic performance and demographic factors, with a specific focus on race/ethnicity, gender  and parental level of education. The dataset was sourced from 06_Student Performance.xlsx, providing valuable insights into student test results and background characteristics.
 
@@ -26,7 +26,7 @@ Key Variables
 
 - Writing Score (int): Student’s performance in writing skills.
 
-**Data Cleaning**
+**2. Data Cleaning**
 The dataset was first examined for missing values and duplicate rows.
 
 **Missing Value**: Two columns were found to contain the missing value.
@@ -38,7 +38,7 @@ The dataset was first examined for missing values and duplicate rows.
 **Duplicates:**
 There were 3 duplicate rows in the dataset. These were removed by using Excel’s “Remove Duplicates” feature under the Data Tools tab.
 
-**Descriptive Statistics**
+**3. Descriptive Statistics**
 
 ![image](https://github.com/user-attachments/assets/fde76eb0-9269-4ee1-8ba0-1af51720d439)
 
