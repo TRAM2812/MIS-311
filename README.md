@@ -1,4 +1,7 @@
 # MIS-311
+
+**Part 1: Data Analysis and Insight**
+
 **Context and Objective**
 
 This project investigates the relationship between students' academic performance and demographic factors, with a specific focus on race/ethnicity, gender  and parental level of education. The dataset was sourced from 06_Student Performance.xlsx, providing valuable insights into student test results and background characteristics.
